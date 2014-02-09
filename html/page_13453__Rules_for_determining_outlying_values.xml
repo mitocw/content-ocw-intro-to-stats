@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Rules for determining outlying values">
+  <body><p>1. Find the 5 number summary (min, Q1, median, Q3, max)</p>
+<p>2. Find the Interquartile range (IQR) :&#160; Q3 - Q1</p>
+<p>3. Minimum value outliers are any values less than Q1 - 1.5 IQR</p>
+<p>4. Maximum value outliers are any values greater than Q3 + 1.5 IQR</p>
+</body>
+</html>

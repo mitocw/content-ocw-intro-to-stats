@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Steps to find the median of a set of data">
+  <body><p>Median is the middle value for your set of data.&#160; There are two situations to look at.</p>
+<p>1. If we have an odd number of observations, our median will be one of our observations.&#160; We put the data in order and cut off the minimum and maximum values.&#160; We continue doing this with the remaining data until the median remains.</p>
+<p>&#160;&#160;&#160;&#160; 1&#160; 2&#160; 3&#160; 3&#160; 5</p>
+<p>Cut off 1 and 5</p>
+<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2&#160; 3&#160; 3</p>
+<p>Cut off 2 and 3</p>
+<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 3&#160;&#160; remains, therefore our median</p>
+<p>2.&#160; If we have an even number of observations, our median may or may not be one of our observations.&#160; We do the same process of cutting max and mins off, but we will end up with two values remaining.&#160; We then take the mean of these two values</p>
+<p>&#160;&#160;&#160;&#160; 1&#160; 2&#160; 3&#160; 4&#160; 5&#160; 6 </p>
+<p>cut off 1 and 6</p>
+<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160; 2&#160; 3&#160; 4&#160; 5</p>
+<p>cut off 2 and 5</p>
+<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 3&#160; 4&#160;&#160; remains, find the mean, 3.5 is our median</p>
+<p/>
+<p/>
+</body>
+</html>

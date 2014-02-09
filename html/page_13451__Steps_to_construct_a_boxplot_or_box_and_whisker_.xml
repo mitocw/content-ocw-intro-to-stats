@@ -1,0 +1,10 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Steps to construct a boxplot or box and whisker plot">
+  <body><p>To create a boxplot, there are&#160;5 easy steps</p>
+<p>1.&#160; Put list of data in order from least to greatest</p>
+<p>2.&#160; Find your five number summary (minimum, lower quartile (median of the lower half of your data, also called Q1), median, upper quartile (median of the upper half of your data, also called Q3), and maximum.</p>
+<p>3.&#160; Make a number line.</p>
+<p>4.&#160; Put points above the number line for each value in your 5 number summary.</p>
+<p>5.&#160; Box is a rectangle with&#160;vertical lines through Q1 and Q3 for sides and&#160;horizontal lines connecting them.&#160; Also draw a vertical line through the median.&#160; The whiskers are lines drawn from the box to the minimum and maximum.&#160; The box shows the interquartile range, which shows us where the middle 50% of our data lies.&#160; This can be calculated by taking the upper quartile minus the lower quartile.</p>
+</body>
+</html>

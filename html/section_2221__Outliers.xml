@@ -1,0 +1,6 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Outliers">
+  <body><p><font size="5">Outliers</font> </p>
+<p>In this section we will look at how to determine if any of our observations are outliers.&#160; Outliers can affect many of our measures, but primarily our mean.&#160; If there is an outlier, our mean gets pulled towards it.&#160; For example, if a basketball player averages 8 points per game and scores 30 points in a game, his new average will rise considerably due to the outlying value.</p>
+</body>
+</html>

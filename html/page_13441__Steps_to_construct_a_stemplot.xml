@@ -1,0 +1,8 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Steps to construct a stemplot">
+  <body><p>Stemplots are very similar to histograms.&#160; In fact, many times you will start with a stemplot and turn it on it's side to create a histogram.&#160; General rules for making a histogram:</p>
+<p>1.&#160; Start with a T.&#160; The left side is the stem (which will be a single number) and the right side are the leaves (there may be multiples of these, but always just one digit, listed in order from least to greatest)</p>
+<p>2.&#160; Using your data set, cut off the last digit.&#160; Look at the digits that remain.&#160; If there are no more than 10 you are ready to begin. If there are more than ten, you will need to round the number off and cross off 2 digits.&#160; If still too many continue with this idea.&#160; The numbers that remain become your stems and are to be listed on the left side in order.&#160; Do not skip any values, it is important to see if there are any gaps.&#160; The numbers that you cut off are your leaves.&#160; You may need to make two stemplots.&#160; One with the leaves listed and then a second with them put in order.</p>
+<p>3.&#160; The most important thing is the key.&#160; This will tell the reader what the numbers mean.&#160; For example:&#160; 3 | 5 = 35&#160; or 3 | 5 = 3.5 million is very important.</p>
+</body>
+</html>

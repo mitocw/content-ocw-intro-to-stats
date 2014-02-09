@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Steps to find the standard deviation for a set of data">
+  <body><p>To find the standard deviation for a set of data, use the following steps:</p>
+<p>1. Use a table or spreadsheet and list your data in the first column.&#160; The data does not need to be in order, but it is a good habit to do this.</p>
+<p>2.&#160;Find the mean for your set of data.</p>
+<p>3. In the second column, find the difference between each observation and the mean.&#160; You may either go observation minus mean or mean minus observation.&#160; You need to use the same method throughout though.&#160; The sum of this column will be 0.&#160; If not, go back and find your error.</p>
+<p>4. In the third column, you will square each of the differences in the second column.&#160; Remember when you square a value it always becomes positive.</p>
+<p>5.&#160;Find the sum of the third column and divide by the number of values you have in your set.&#160; This is your VARIANCE.</p>
+<p>6.&#160;To get your STANDARD DEVIATION, take the square root of your variance.</p>
+</body>
+</html>

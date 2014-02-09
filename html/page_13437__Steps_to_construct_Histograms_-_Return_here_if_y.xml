@@ -1,0 +1,9 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html display_name="Steps to construct Histograms - Return here if you have questions on the process.">
+  <body><p>Histograms are a very common way to display data.&#160; Very similar to a bar graph (which is used for categorical data), but the bars may touch each other depending on the data.&#160; </p>
+<p>To make a histogram:</p>
+<p>You will need a vertical axis to represent the frequency and a horizontal axis to represent the values in your set of data.&#160; It is not a line plot where you simply put marks (dot or X) above the values.&#160; </p>
+<p>The bars generally contain multiple values.&#160; A general rule in setting up your horizontal axis is to find the range (maximum value - minimum value) and divide by 7.&#160; We then round that value off to the nearest integer to determine our bin width.&#160; Hopefully this will allow us a good view of the data.&#160; </p>
+<p>Occasionally you will need to make adjustments to your bin widths (spread of the bars) to get a better view.&#160; The values that go into each bar include the left side, but not the right.&#160; For example, if a bar starts at 2 and ends at 5, it will include all values greater than or equal to 2 and at the same time less than 5.&#160; Values of 5 will move into the next bar. </p>
+</body>
+</html>
